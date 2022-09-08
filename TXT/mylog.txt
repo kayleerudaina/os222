@@ -10,4 +10,4 @@ ZCZC W00 100 L02 Zoom related
 ZCZC W00 30 L70 Studying for other courses.
 ZCZC W00 20 L05 Quiz related including studying
 ZCZC W01 100 L02 Zoom related
-ZCZC W01 30 L11 Assignment #01
+ZCZC W01 60 L11 Assignment #01
