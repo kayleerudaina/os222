@@ -11,3 +11,14 @@ ZCZC W00 30 L70 Studying for other courses.
 ZCZC W00 20 L05 Quiz related including studying
 ZCZC W01 100 L02 Zoom related
 ZCZC W01 60 L11 Assignment #01
+ZCZC W01 30 L11 Assignment #01 : Do research
+ZCZC W01 100 L02 Zoom related
+ZCZC W01 40 L31 VirtualBox: install GNU/Linux
+ZCZC W01 50 L01 Learning through Tutorial
+ZCZC W01 30 L11 Continue Assignment #01
+ZCZC W01 40 L05 Quiz related including studying
+ZCZC W01 5 L41 TXT/mylog.txt related.
+ZCZC W01 60 L11 Continue Assignment #01
+ZCZC W01 30 L06 Do reading related to Assignment #01
+ZCZC W01 90 L11 Continue Assignment #01
+ZCZC W01 8 L41 TXT/mylog.txt related.
