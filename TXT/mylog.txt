@@ -22,3 +22,4 @@ ZCZC W01 60 L11 Continue Assignment #01
 ZCZC W01 30 L06 Do reading related to Assignment #01
 ZCZC W01 90 L11 Continue Assignment #01
 ZCZC W01 8 L41 TXT/mylog.txt related.
+ZCZC W02 20 L12 Do reading 
