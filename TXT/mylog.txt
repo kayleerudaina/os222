@@ -29,3 +29,4 @@ ZCZC W02 15 L12 Assignment #02 GnuPG
 ZCZC W02 100 L02 Zoom related
 ZCZC W02 40 L05 Quiz related
 ZCZC W02 30 L12 Continuing Assignment
+ZCZC W02 60 L12 Finishing Assignment #2
