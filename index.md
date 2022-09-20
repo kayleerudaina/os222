@@ -7,11 +7,11 @@
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL]({{ site.tarballlink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is {{ site.title }} and I am {{ site.name }}.
 <br><br>
 This is the way!
 <br>
