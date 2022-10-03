@@ -37,6 +37,11 @@ ZCZC W03 30 L06 Do reading on Assignment #3
 ZCZC W03 100 L02 Zoom related
 ZCZC W03 30 L13 Continue Assignment #3
 ZCZC W03 60 L13 Fixing mistakes on Assignment #3
-ZCZC W03 10 L13 Finishing Assignment #3
-ZCZC W03 10 L03 Github related
-ZCZC W03 10 L01 SCELE related (answering Pop Quiz)
+ZCZC W03 10 L06 Research on Assignment
+ZCZC W04 100 L10 Zoom related
+ZCZC W04 30 L14 Continue assignment #4
+ZCZC W04 60 L21 Trying something
+ZCZC W04 30 L32 Watching youtube on topic
+ZCZC W04 15 L14 Finishing Assignment #4
+
+
