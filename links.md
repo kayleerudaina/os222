@@ -39,3 +39,10 @@ permalink: /LINKS/
 
 3. [What is Mount?](https://www.bleepingcomputer.com/tutorials/introduction-to-mounting-filesystems-in-linux/)<br>
    Gives you explanantion of what happens when you mount in Linux.
+
+## WEEK 04
+1. [Difference between static and shared lib](https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)<br>
+   Further understanding on shared lib
+   
+2. [What is addressing in Linux?](https://www.geeksforgeeks.org/addresses-command-in-linux-with-examples/)<br>
+   Understanding address on Linux.
