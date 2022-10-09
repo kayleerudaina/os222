@@ -43,5 +43,13 @@ ZCZC W04 30 L14 Continue assignment #4
 ZCZC W04 60 L21 Trying something
 ZCZC W04 30 L32 Watching youtube on topic
 ZCZC W04 15 L14 Finishing Assignment #4
-
-
+ZCZC W05 100 L02 OS class Zoom
+ZCZC W05 10 L62 Export Virtual Guest 
+ZCZC W05 60 L15 Starting Assignment #5
+ZCZC W05 30 L06 Browsing on Assignment #5
+ZCZC W05 10 L01 Do Pop Quiz on SCELE
+ZCZC W05 100 L00 Offline OS class 
+ZCZC W05 30 L05 Studying & doing quiz
+ZCZC W05 40 L08 Ask friend about OS
+ZCZC W05 30 L15 Continue Assignment #5
+ZCZC W05 5 L41 Add log for Week 5
