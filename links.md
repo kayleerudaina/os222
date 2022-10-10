@@ -46,3 +46,9 @@ permalink: /LINKS/
    
 2. [What is addressing in Linux?](https://www.geeksforgeeks.org/addresses-command-in-linux-with-examples/)<br>
    Understanding address on Linux.
+   
+## WEEK 05
+1. [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory)<br>
+   Gives explanation on Virtual Memory
+2. [Virtual Memory on Linux](https://www.logicmonitor.com/blog/the-right-way-to-monitor-virtual-memory-on-linux)<br>
+   Gives further understanding on how the Virtual Memory is used on Linux.
