@@ -52,3 +52,7 @@ permalink: /LINKS/
    Gives explanation on Virtual Memory
 2. [Virtual Memory on Linux](https://www.logicmonitor.com/blog/the-right-way-to-monitor-virtual-memory-on-linux)<br>
    Gives further understanding on how the Virtual Memory is used on Linux.
+   
+## WEEK 07
+1. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm)<br>
+   Gives further explanation on Shared Memory and how it's implemented
